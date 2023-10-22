@@ -7,6 +7,177 @@
     "course_hrs_week" : 0,
     "recitation_hrs_week" : 0,
     "taught_by" : "",
-    "offered_by" : ""
+    "offered_by" : "",
+    "major" : ""
   },
+  
+  {
+    "title" : "Introduction To Computer Science And Programming In Python",
+    "url" : "https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/",
+    "description" : "6.0001 Introduction to Computer Science and Programming in Python is intended for students with little or no programming experience. It aims to provide students with an understanding of the role computation can play in solving problems and to help students, regardless of their major, feel justifiably confident of their ability to write small programs that allow them to accomplish useful goals. The class uses the Python 3.5 programming language.",
+    "prereqs" : "",
+    "course_hrs_week" : 2,
+    "recitation_hrs_week" : 1,
+    "taught_by" : "Dr. Ana Bell; Prof. Eric Grimson; Prof. John Guttag",
+    "offered_by" : "mit_ocw",
+    "major" : "computer science"
+  },
+  {
+    "title" : "Software Construction",
+    "url" : "https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/pages/syllabus/",
+    "description" : "6.005 Software Construction introduces fundamental principles and techniques of software development, i.e., how to write software that is safe from bugs, easy to understand, and ready for change. Topics include specifications and invariants; testing, test-case generation, and coverage; abstract data types and representation independence; design patterns for object-oriented programming; concurrent programming, including message passing and shared concurrency, and defending against races and deadlock; and functional programming with immutable data and higher-order functions. Includes weekly programming exercises and larger group programming projects.",
+    "prereqs" : "",
+    "course_hrs_week" : 3,
+    "recitation_hrs_week" : 1,
+    "taught_by" : "Prof. Robert Miller Dr. Max Goldman",
+    "offered_by" : "mit_ocw",
+    "major" : "computer science"
+  } ,
+  {
+    "title" : "Programming Abstractions",
+    "url" : "https://see.stanford.edu/Course/CS106B",
+    "description" : "This course is the natural successor to Programming Methodology and covers such advanced programming topics as recursion, algorithmic analysis, and data abstraction using the C++ programming language, which is similar to both C and Java. If you've taken the Computer Science AP exam and done well (scored 4 or 5) or earned a good grade in a college course, Programming Abstractions may be an appropriate course for you to start with, but often Programming Abstractions (Accelerated) is a better choice. Programming Abstractions assumes that you already have familiarity with good programming style and software engineering issues (at the level of Programming Methodology), and that you can use this understanding as a foundation on which to tackle new topics in programming and data abstraction.",
+    "prereqs" : "Solid performance in Programming Methodology and readiness to move on to advanced programming topics. A comparable introductory programming course (including high school AP courses) is often a reasonable substitute for our Programming Methodology.",
+    "course_hrs_week" : 3,
+    "recitation_hrs_week" : 0,
+    "taught_by" : "Prof. Zelenski, Julie",
+    "offered_by" : "stanford engineering everywhere ",
+    "major" : "computer science"
+  
+  },
+  {
+    "title" : "Introduction To Algorithms",
+    "url" : "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/",
+    "description" : "This course is an introduction to mathematical modeling of computational problems, as well as common algorithms, algorithmic paradigms, and data structures used to solve these problems. It emphasizes the relationship between algorithms and programming and introduces basic performance measures and analysis techniques for these problems",
+    "prereqs" : "",
+    "course_hrs_week" : 2,
+    "recitation_hrs_week" : 2,
+    "taught_by" : "Prof. Erik Demaine; Dr. Jason Ku; Prof. Justin Solomon",
+    "offered_by" : "mit_ocw",
+    "major" : "computer science"
+  },
+  {
+    "title" : "Mathematics For Computer Science",
+    "url" : "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/pages/syllabus/",
+    "description" : "This is an introductory course covering elementary data structures (dynamic arrays, heaps, balanced binary search trees, hash tables) and algorithmic approaches to solve classical problems (sorting, graph searching, dynamic programming). Introduction to mathematical modeling of computational problems, as well as common algorithms, algorithmic paradigms, and data structures used to solve these problems. Emphasizes the relationship between algorithms and programming, and introduces basic performance measures and analysis techniques for these problems.",
+    "prereqs" : "Introduction To Computer Science And Programming In Python; Mathematics For Computer Science",
+    "course_hrs_week" : 4.5,
+    "recitation_hrs_week" : 0,
+    "taught_by" : "Prof. Albert R. Meyer;Prof. Adam Chlipala",
+    "offered_by" : "mit_ocw",
+    "major" : "computer science"
+  },
+  {
+    "title" : "Design And Analysis Of Algorithms",
+    "url" : "https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/",
+    "description" : "This course assumes that students know how to analyze simple algorithms and data structures from having taken 6.006. It introduces students to the design of computer algorithms, as well as analysis of sophisticated algorithms.",
+    "prereqs" : "Introduction To Algorithms; Mathematics For Computer Science",
+    "course_hrs_week" : 3,
+    "recitation_hrs_week" : 1,
+    "taught_by" : "Prof. Erik Demaine; Prof. Srini Devadas; Prof. Nancy Lynch",
+    "offered_by" : "mit_ocw",
+    "major" : "computer science"
+  
+  },
+  {
+    "title" : "CS107 - Programming Paradigms",
+    "url" : "https://see.stanford.edu/Course/CS107",
+    "description" : "Advanced memory management features of C and C++; the differences between imperative and object-oriented paradigms. The functional paradigm (using LISP) and concurrent programming (using C and C++). Brief survey of other modern languages such as Python, Objective C, and C#.Prerequisites: Programming and problem solving at the Programming Abstractions level. Prospective students should know a reasonable amount of C++. You should be comfortable with arrays, pointers, references, classes, methods, dynamic memory allocation, recursion, linked lists, binary search trees, hashing, iterators, and function pointers. You should be able to write well-decomposed, easy-to-understand code, and understand the value that comes with good variable names, short function and method implementations, and thoughtful, articulate comments.",
+    "prereqs" : "Programming Abstractions",
+    "course_hrs_week" :2.5,
+    "recitation_hrs_week" : 0,
+    "taught_by" : "Jerry Cain",
+    "offered_by" : "stanford engineering everywhere",
+    "major" : "computer science"
+  },
+  {
+    "title" : "Software Studio",
+    "url" : "https://ocw.mit.edu/courses/6-170-software-studio-spring-2013/pages/syllabus/",
+    "description" : "This is a course in software engineering, with an emphasis on design. It focuses on building web applications and services because of their obvious relevance to students in building practical skills, and because there are so many readily available examples to study.In addition to teaching the fundamental notions of structuring a web application, and how to write modular and elegant code, the course emphasizes behavioral and conceptual design: that is, designing the external behavior of the software rather than its internal structure. We believe that this aspect of design is the most important in practice, the least well-understood by MIT students, and the one that is hardest to acquire in standard industrial settings.",
+    "prereqs" : "Introduction To Computer Science And Programming In Python",
+    "course_hrs_week" : 3,
+    "recitation_hrs_week" : 1,
+    "taught_by" : "Prof. Daniel Jackson",
+    "offered_by" : "mit_ocw",
+    "major" : "computer science"
+  },
+  {
+    "title" : "Single Variable Calculus",
+    "url" : "https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/",
+    "description" : "This calculus course covers differentiation and integration of functions of one variable, and concludes with a brief discussion of infinite series. Calculus is fundamental to many scientific disciplines including physics, engineering, and economics.",
+    "prereqs" : "high school algebra and trigonometry",
+    "course_hrs_week" : 4,
+    "recitation_hrs_week" : 0,
+    "taught_by" : "Prof. David Jerison",
+    "offered_by" : "mit_ocw",
+    "major" : "mathematics"
+  },
+  {
+    "title" : "Multivariable Calculus",
+    "url" : "https://ocw.mit.edu/courses/18-02-multivariable-calculus-spring-2006/pages/syllabus/",
+    "description" : "This course covers vector and multi-variable calculus. It is the second semester in the freshman calculus sequence. Topics include Vectors and Matrices, Partial Derivatives, Double and Triple Integrals, and Vector Calculus in 2 and 3-space.",
+    "prereqs" : "Single Variable Calculus",
+    "course_hrs_week" : 3,
+    "recitation_hrs_week" : 0,
+    "taught_by" : "Prof. David Jerison; Prof. Arthur Mattuck",
+    "offered_by" : "mit_ocw",
+    "major" : "mathematics"
+  },
+  {
+    "title" : "Differential Equations",
+    "url" : "https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/",
+    "description" : "The laws of nature are expressed as differential equations. Scientists and engineers must know how to model the world in terms of differential equations, and how to solve those equations and interpret the solutions. This course focuses on linear differential equations and their applications in science and engineering",
+    "prereqs" : "Single Variable Calculus; Multivariable Calculus",
+    "course_hrs_week" : 3,
+    "recitation_hrs_week" : 0,
+    "taught_by" : "Prof. Arthur Mattuck; Prof. Haynes Miller; Dr. Jeremy Orloff; Dr. John Lewis",
+    "offered_by" : "mit_ocw",
+    "major" : "mathematics"
+  },
+  {
+    "title" : "Introduction To Probability And Statistics",
+    "url" : "https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2014/",
+    "description" : "This course provides an elementary introduction to probability and statistics with applications. Topics include: basic combinatorics, random variables, probability distributions, Bayesian inference, hypothesis testing, confidence intervals, and linear regression.",
+    "prereqs" : "",
+    "course_hrs_week" : 3,
+    "recitation_hrs_week" : 1.5,
+    "taught_by" : "Dr. Jeremy Orloff; Jonathan Bloom",
+    "offered_by" : "mit_ocw",
+    "major" : "mathematics"
+  },
+  {
+    "title" : "Real Analysis",
+    "url" : "https://ocw.mit.edu/courses/18-100c-real-analysis-fall-2012/",
+    "description" : "This course covers the fundamentals of mathematical analysis: convergence of sequences and series, continuity, differentiability, Riemann integral, sequences and series of functions, uniformity, and the interchange of limit operations. It shows the utility of abstract concepts and teaches an understanding and construction of proofs. MIT students may choose to take one of three versions of Real Analysis; this version offers three additional units of credit for instruction and practice in written and oral presentation.",
+    "prereqs" : "Multivariable Calculus; Differential Equations; Introduction To Analysis",
+    "course_hrs_week" : 3,
+    "recitation_hrs_week" : 1,
+    "taught_by" : "Prof. Paul Seidel",
+    "offered_by" : "mit_ocw",
+    "major" : "mathematics"
+  },
+  { "title" : "Modern Algebra",
+    "url" : "https://ocw.mit.edu/courses/18-703-modern-algebra-spring-2013/",
+    "description" : "This undergraduate course focuses on traditional algebra topics that have found greatest application in science and engineering as well as in mathematics. Topics include group theory, emphasizing finite groups; ring theory, including ideals and unique factorization in polynomial and Euclidean rings; field theory, including properties and applications of finite fields. Linear Algebra 18.700 and Modern Algebra 18.703 together form a standard algebra sequence.",
+    "prereqs" : "Multivariable Calculus",
+    "course_hrs_week" : 3,
+    "recitation_hrs_week" : 0,
+    "taught_by" : "Prof. James McKernan",
+    "offered_by" : "mit_ocw",
+    "major" : "mathematics"
+  },
+  {
+    "title" : "Introduction To Analysis",
+    "url" : "https://ocw.mit.edu/courses/18-100a-introduction-to-analysis-fall-2012/",
+    "description" : "This course is an introduction to devising mathematical proofs and learning to write them up. It is primarily for students with no prior experience with this. It features a somewhat gentler introduction to the standard Analysis I material than the traditional course. It emphasizes one-variable analysis and de-emphasizes point-set topology. It assumes students did well in a standard single-variable calculus course. The textbook is written in a user-friendly style, discursive rather than brief, making the book usable for self-study.",
+    "prereqs" : "Multivariable Calculus; Differential Equations",
+    "course_hrs_week" : 3,
+    "recitation_hrs_week" : 0,
+    "taught_by" : "Prof. Arthur Mattuck",
+    "offered_by" : "mit_ocw",
+    "major" : "mathematics"
+  }
+
+  
+
 ]
