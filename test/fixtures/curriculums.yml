@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  major: MyString
+  time_frame: 1
+  hrs_week: 1
+  concentration: MyString
+  reason_for_pursuing: MyText
+
+two:
+  user: two
+  major: MyString
+  time_frame: 1
+  hrs_week: 1
+  concentration: MyString
+  reason_for_pursuing: MyText
