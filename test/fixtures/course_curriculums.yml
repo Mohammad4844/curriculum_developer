@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  course: one
+  curriculum: one
+  level: MyString
+  completed: false
+
+two:
+  course: two
+  curriculum: two
+  level: MyString
+  completed: false
