@@ -1,0 +1,23 @@
+<div class="mt-6 mb-6 flex flex-col justify-items-center items-center gap-5">
+  <% @courses.each_slice(3).each_with_index do |group, i| %>
+    <div class="flex flex-row justify-items-center items-center gap-5">
+          <% group.each do |course| %>
+            <div class="card w-96 bg-gray-100 text-gray-700 shadow-xl h-full justify-center">
+              <div class="card-body h-full items-center text-center">
+                <h2 class="card-title justify-center "><%= course.title %></h2>
+                <% if i == 0 %>
+                    <h3 class="card-normal text-green-500 h-full justify-center">beginner</h3>
+                  <% elsif i == 1 %>
+                    <h3 class="card-normal text-yellow-500 h-full justify-center">intermediate</h3>
+                  <% else %>
+                    <h3 class="card-normal text-red-500 h-full justify-center">advanced</h3>
+                  <% end %>
+                <div class="card-actions justify-center">
+                  <a href="<%= course.url %>"><button class="btn btn-primary">Go to course</button></a> 
+                </div>
+              </div>
+            </div>
+          <% end %>
+    </div>
+  <% end %>
+</div>

@@ -1,17 +1,5 @@
 [
   {
-    "title" : "",
-    "url" : "",
-    "description" : "",
-    "prereqs" : "",
-    "course_hrs_week" : 0,
-    "recitation_hrs_week" : 0,
-    "taught_by" : "",
-    "offered_by" : "",
-    "major" : ""
-  },
-  
-  {
     "title" : "Introduction To Computer Science And Programming In Python",
     "url" : "https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/",
     "description" : "6.0001 Introduction to Computer Science and Programming in Python is intended for students with little or no programming experience. It aims to provide students with an understanding of the role computation can play in solving problems and to help students, regardless of their major, feel justifiably confident of their ability to write small programs that allow them to accomplish useful goals. The class uses the Python 3.5 programming language.",
@@ -19,8 +7,7 @@
     "course_hrs_week" : 2,
     "recitation_hrs_week" : 1,
     "taught_by" : "Dr. Ana Bell; Prof. Eric Grimson; Prof. John Guttag",
-    "offered_by" : "mit_ocw",
-    "major" : "computer science"
+    "offered_by" : "mit_ocw"
   },
   {
     "title" : "Software Construction",
@@ -30,8 +17,7 @@
     "course_hrs_week" : 3,
     "recitation_hrs_week" : 1,
     "taught_by" : "Prof. Robert Miller Dr. Max Goldman",
-    "offered_by" : "mit_ocw",
-    "major" : "computer science"
+    "offered_by" : "mit_ocw"
   } ,
   {
     "title" : "Programming Abstractions",
@@ -41,9 +27,7 @@
     "course_hrs_week" : 3,
     "recitation_hrs_week" : 0,
     "taught_by" : "Prof. Zelenski, Julie",
-    "offered_by" : "stanford engineering everywhere ",
-    "major" : "computer science"
-  
+    "offered_by" : "stanford engineering everywhere "
   },
   {
     "title" : "Introduction To Algorithms",
@@ -53,8 +37,7 @@
     "course_hrs_week" : 2,
     "recitation_hrs_week" : 2,
     "taught_by" : "Prof. Erik Demaine; Dr. Jason Ku; Prof. Justin Solomon",
-    "offered_by" : "mit_ocw",
-    "major" : "computer science"
+    "offered_by" : "mit_ocw"
   },
   {
     "title" : "Mathematics For Computer Science",
@@ -64,8 +47,7 @@
     "course_hrs_week" : 4.5,
     "recitation_hrs_week" : 0,
     "taught_by" : "Prof. Albert R. Meyer;Prof. Adam Chlipala",
-    "offered_by" : "mit_ocw",
-    "major" : "computer science"
+    "offered_by" : "mit_ocw"
   },
   {
     "title" : "Design And Analysis Of Algorithms",
@@ -75,8 +57,7 @@
     "course_hrs_week" : 3,
     "recitation_hrs_week" : 1,
     "taught_by" : "Prof. Erik Demaine; Prof. Srini Devadas; Prof. Nancy Lynch",
-    "offered_by" : "mit_ocw",
-    "major" : "computer science"
+    "offered_by" : "mit_ocw"
   
   },
   {
@@ -87,8 +68,7 @@
     "course_hrs_week" :2.5,
     "recitation_hrs_week" : 0,
     "taught_by" : "Jerry Cain",
-    "offered_by" : "stanford engineering everywhere",
-    "major" : "computer science"
+    "offered_by" : "stanford engineering everywhere"
   },
   {
     "title" : "Software Studio",
@@ -98,8 +78,7 @@
     "course_hrs_week" : 3,
     "recitation_hrs_week" : 1,
     "taught_by" : "Prof. Daniel Jackson",
-    "offered_by" : "mit_ocw",
-    "major" : "computer science"
+    "offered_by" : "mit_ocw"
   },
   {
     "title" : "Single Variable Calculus",
@@ -109,8 +88,7 @@
     "course_hrs_week" : 4,
     "recitation_hrs_week" : 0,
     "taught_by" : "Prof. David Jerison",
-    "offered_by" : "mit_ocw",
-    "major" : "mathematics"
+    "offered_by" : "mit_ocw"
   },
   {
     "title" : "Multivariable Calculus",
@@ -120,8 +98,7 @@
     "course_hrs_week" : 3,
     "recitation_hrs_week" : 0,
     "taught_by" : "Prof. David Jerison; Prof. Arthur Mattuck",
-    "offered_by" : "mit_ocw",
-    "major" : "mathematics"
+    "offered_by" : "mit_ocw"
   },
   {
     "title" : "Differential Equations",
@@ -131,8 +108,7 @@
     "course_hrs_week" : 3,
     "recitation_hrs_week" : 0,
     "taught_by" : "Prof. Arthur Mattuck; Prof. Haynes Miller; Dr. Jeremy Orloff; Dr. John Lewis",
-    "offered_by" : "mit_ocw",
-    "major" : "mathematics"
+    "offered_by" : "mit_ocw"
   },
   {
     "title" : "Introduction To Probability And Statistics",
@@ -142,8 +118,7 @@
     "course_hrs_week" : 3,
     "recitation_hrs_week" : 1.5,
     "taught_by" : "Dr. Jeremy Orloff; Jonathan Bloom",
-    "offered_by" : "mit_ocw",
-    "major" : "mathematics"
+    "offered_by" : "mit_ocw"
   },
   {
     "title" : "Real Analysis",
@@ -153,8 +128,7 @@
     "course_hrs_week" : 3,
     "recitation_hrs_week" : 1,
     "taught_by" : "Prof. Paul Seidel",
-    "offered_by" : "mit_ocw",
-    "major" : "mathematics"
+    "offered_by" : "mit_ocw"
   },
   { "title" : "Modern Algebra",
     "url" : "https://ocw.mit.edu/courses/18-703-modern-algebra-spring-2013/",
@@ -163,8 +137,7 @@
     "course_hrs_week" : 3,
     "recitation_hrs_week" : 0,
     "taught_by" : "Prof. James McKernan",
-    "offered_by" : "mit_ocw",
-    "major" : "mathematics"
+    "offered_by" : "mit_ocw"
   },
   {
     "title" : "Introduction To Analysis",
@@ -174,10 +147,6 @@
     "course_hrs_week" : 3,
     "recitation_hrs_week" : 0,
     "taught_by" : "Prof. Arthur Mattuck",
-    "offered_by" : "mit_ocw",
-    "major" : "mathematics"
+    "offered_by" : "mit_ocw"
   }
-
-  
-
 ]

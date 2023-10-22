@@ -4,8 +4,8 @@ from vertexai.language_models import TextGenerationModel
 import json
 import sys
 
-courses = json.loads(sys.argv[1])
-user_args = json.loads(sys.argv[2])
+user_args = json.loads(sys.argv[1])
+courses = json.loads(sys.argv[2])
 
 vertexai.init(project="ace-line-402807", location="us-central1")
 parameters = {
@@ -21,6 +21,7 @@ response = model.predict(
 You are an expert at academia and designing curriculum for all disciplines. Based on a list of relevant courses, design a curriculum for a student who is interested in this discipline.
 The student has time constraints in terms of how many hours / week they can put in and in how long of a time frame they want to complete the curriculum. Based on the hourly requirement of a course, design the curriculum in such a way that the student can complete it with their time constraints.
 Keeping in mind pre-requisites of courses, also add a label to each course that you suggested classifying it as either 'beginner', 'intermediate' or 'advanced' depending on how it falls in the bigger scheme of things.
+The labels should be split evenly (so if there are 9 total courses, there should be 3 for each label). Also, return them in increasing difficulty order, while also sorting them based on how you think the student should take them.
 
 Course List:
 {courses}
