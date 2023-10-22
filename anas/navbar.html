@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html> 
+  <head>
+    <title>CurriculumDeveloper</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@3.9.3/dist/full.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <div class="navbar bg-base-100">
+        <div class="flex-1 flex gap-2"> <!-- Flex container for alignment -->
+            <a class="btn btn-ghost normal-case text-xl">Curriculum Learner</a>
+            <div class="dropdown dropdown-hover">
+                <a tabindex="0" class="btn m-1">My Curriculum</a>
+            </div>
+        </div>
+        <div class="flex-none gap-2">
+            <div class="dropdown dropdown-end">
+                <label tabindex="0" class="btn btn-ghost btn-circle avatar">
+                    <div class="w-10 rounded-full">
+                        <img src="/images/stock/photo-1534528741775-53994a69daeb.jpg" />
+                    </div>
+                </label>
+                <ul tabindex="0" class="mt-3 z-[1] p-2 shadow menu menu-sm dropdown-content bg-base-100 rounded-box w-52">
+                    <li>
+                        <a class="justify-between">
+                            Profile
+                        </a>
+                    </li>
+                    <li><a>Settings</a></li>
+                    <li><a>Logout</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>      
+  </body>
+</html>
