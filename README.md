@@ -3,6 +3,9 @@
 ## Overview
 This is the github repository for Curricula, an AI curriculum developer built as part of the Education track during HackDearborn2. We built a full-stack application with Ruby on Rails, PostgreSQL and TailwindCSS, along with utilizing Google AI studio to build our core NLP model.
 
+- [Devpost Page](https://devpost.com/software/curricula-avi0m9)
+- [HackDearborn](https://www.hackdearborn.org)
+
 ## Contributers 
 - [Mohammad Arjamand Ali](https://github.com/Mohammad4844)
 - [Ziad Sabri](https://github.com/zsabri91)
