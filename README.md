@@ -1,3 +1,13 @@
+# Curricula - HackDearborn2
+
+## Overview
+This is the github repository for Curricula, an AI curriculum developer built as part of the Education track during HackDearborn2. We built a full-stack application with Ruby on Rails, PostgreSQL and TailwindCSS, along with utilizing Google AI studio to build our core NLP model.
+
+## Contributers 
+- [Mohammad Arjamand Ali](https://github.com/Mohammad4844)
+- [Ziad Sabri](https://github.com/zsabri91)
+- [Anas Khouja](https://github.com/anaskhouja)
+
 ## Inspiration
 
 Imagine a person who doesn't have the privilege to pursue formal education due to any number of reasons: financial constraints, remote rural locations, cultural barriers, or challenges faced in foreign lands. Curricula uses AI technology to create a tailored curriculum from free courses offered by MIT & Stanford, helping bridge this gap.
@@ -16,7 +26,7 @@ Authentication with Google Cloud proved to be a real challenge. The lack of APIs
 
 ## Accomplishments that we're proud of
 
-We're proud that we able to contribute to helping bridge the educational inequalities present in our world. We all also learned a lot of about
+We're proud that we able to contribute to helping bridge the educational inequalities present in our world. We all also learned a lot about collaborating in a project that has a lot of different aspects and moving parts.
 
 ## What we learned
 
